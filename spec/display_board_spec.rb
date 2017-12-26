@@ -5,7 +5,7 @@ describe '/lib/display_board.rb' do
     expect(defined?(display_board)).to be_truthy
   end
 
-  context "#display_board method" do
+  context "#dfssdfsdfsdf method" do
     it 'represents a cell as a string with 3 spaces' do
       output = capture_puts{ display_board }
 
